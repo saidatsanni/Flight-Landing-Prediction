@@ -26,8 +26,9 @@ We consider statistical techniques and models such as:
 * Variable Selection
 * Regression Analysis - Linear Regression
 * Logistic Regression - probit model, hazard model with complementary log-log link, and the logit model
-* Model comparison using ROC Curve, AUC values, AIC, and BIC criteria.
-* Predictions
+*  Prediction of landing distance
+* Model comparison and selection using ROC Curve, AUC values, AIC, and BIC criteria.
+
   
 
 
