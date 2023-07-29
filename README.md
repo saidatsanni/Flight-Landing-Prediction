@@ -34,7 +34,7 @@ We consider statistical techniques and models such as:
 
 **Part 1**: Exploratory data analysis and Data Cleaning 
 
-**Part 2**: Modeling a Binary Response using Logistic Regression using different link functions (Variable Selection, Model Building, Comparison, and Prediction)
+**Part 2**: Modeling a Binary Response using Logistic Regression with different link functions (Variable Selection, Model Building, Comparison, and Prediction)
 
 **Part 3**: Modeling Multinomial Data and Count Data (Model Selection, Comparison, and Prediction)
 
