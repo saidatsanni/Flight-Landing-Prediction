@@ -42,7 +42,7 @@ HTML: (Flight-Landing-Prediction/blob/master/Main/Flight-Landing-Prediction-Proj
 
 [README](Flight-Landing-Prediction/blob/master/Main/Flight Landing Prediction Project.html)
 
-[HTML](Main)
+HTML: (Main/Flight%20Landing%20Prediction%20Project.html)
 
 R Markdown: 
 
