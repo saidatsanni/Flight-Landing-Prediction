@@ -38,7 +38,11 @@ We consider statistical techniques and models such as:
 
 **Part 3**: Modeling Multinomial Data and Count Data (Model Selection, Comparison, and Prediction)
 
-Html: (Main/Flight Landing Prediction Project.html)
+HTML: (Flight-Landing-Prediction/blob/master/Main/Flight-Landing-Prediction-Project.html)
+
+[README](Flight-Landing-Prediction/blob/master/Main/Flight Landing Prediction Project.html)
+
+[HTML](Flight-Landing-Prediction/blob/master/Main/Flight-Landing-Prediction-Project.html)
 
 R Markdown: 
 
