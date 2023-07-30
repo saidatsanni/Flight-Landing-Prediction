@@ -32,10 +32,11 @@ We consider statistical techniques and models such as:
 
 **Execution**
 
-**Part 1**: Exploratory data analysis and Data Cleaning 
+**Part 1**: Exploratory data analysis and Data Cleaning. [Part 1](https://github.com/saidatsanni/Flight-Landing-Prediction/blob/c6a178438b35235cf79d2aea94d2b4943a8b5cc1/Main/Flight%20Landing%20Prediction%20Project_Part%201.pdf)
 
 **Part 2**: Modeling a Binary Response using Logistic Regression with different link functions (Variable Selection, Model Building, Comparison, and Prediction)
+[Part 2](https://github.com/saidatsanni/Flight-Landing-Prediction/blob/c6a178438b35235cf79d2aea94d2b4943a8b5cc1/Main/Flight%20Landing%20Prediction%20Project_Part%202.pdf)
 
-**Part 3**: Modeling Multinomial Data and Count Data (Model Selection, Comparison, and Prediction)
+**Part 3**: Modeling Multinomial Data and Count Data (Model Selection, Comparison, and Prediction). [Part 3](https://github.com/saidatsanni/Flight-Landing-Prediction/blob/c6a178438b35235cf79d2aea94d2b4943a8b5cc1/Main/Flight%20Landing%20Prediction%20Project_Part%203.pdf)
 
 
