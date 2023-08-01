@@ -1,13 +1,13 @@
-# Flight Landing Prediction
+# Flight Landing Distance Prediction
 
-**Motivation:** 
-
-To reduce the risk of landing overrun.
+This project focuses on identifying the factors that contribute to the landing distance of commercial flights and predicting landing distance. Model comparison and prediction accuracy are also investigated.
 
 
-**Goal:** 
+**Goals:** 
 
-To study what factors and how they would impact the landing distance of a commercial flight.
+* Identify the factors that impact the landing distance of a commercial flight.
+* Explore how these factors impact the landing distance. 
+* Develop several predictive models and identify the best model, with superior predictive performance.
 
 
 **Data:** 
