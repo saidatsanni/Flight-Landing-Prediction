@@ -1,4 +1,4 @@
-# Flight Landing Distance Prediction
+# Prediction of Flight Landing Distance
 
 This project focuses on identifying the factors that contribute to the landing distance of commercial flights and predicting landing distance. Model comparison and prediction accuracy are also investigated.
 
